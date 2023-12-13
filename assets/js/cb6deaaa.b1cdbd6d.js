@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocsite=self.webpackChunkdocsite||[]).push([[6551],{7598:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/MyDocsite/blog/tags/facebook","allTagsPath":"/MyDocsite/blog/tags","count":1,"unlisted":false}')}}]);
